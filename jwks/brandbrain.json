@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "jzAKcDnF-B0fQbXzWiafolVgVdfKXt41TIi82lZx4sGBmeZwS8qrFtO52RoFv_6LZtbGCoCWz7UaPrf1YAxgX3froeYAsZWJLaR5iLRC55GXcMWbLEOaIf20EHT9vqLI2r0J4b7OPaq15e-NfT5j6um8XGc_tHNtb619XEQzoJU3EJqfIgj5zGbLf7QszvHhBF4Uj4-lW3gMDdj60Wr7A1mokInY8j43Rb_U3YzgFwikI3Ky5WZSnzsrbNrAUiGK-lgZicTLvP5tr2dM4Qbca2Dvf5Qn0ChbSWUtDU8gvdqRYrPIg40PvJcfrZpgEVZEtWIVzMoDFEtBschCuglYJQ",
+      "e": "AQAB",
+      "kid": "brandbrain-e2e",
+      "use": "sig",
+      "alg": "RS256"
+    }
+  ]
+}
